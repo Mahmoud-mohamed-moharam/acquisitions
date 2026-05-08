@@ -1,0 +1,25 @@
+{
+  "name": "acquisitions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahmoud-mohamed-moharam/acquisitions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Mahmoud-mohamed-moharam/acquisitions/issues"
+  },
+  "homepage": "https://github.com/Mahmoud-mohamed-moharam/acquisitions#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
